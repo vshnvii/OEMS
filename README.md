@@ -1,6 +1,3 @@
-## README.md
-
-
 # Office Employment Management System (OEMS)
 
 This is a Django-based web application designed for managing office employee data, roles, and operations efficiently. The OEMS system provides a robust platform for handling essential administrative tasks in a centralized and user-friendly way.
